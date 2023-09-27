@@ -1,3 +1,7 @@
 # AI Image Generator React App
+## AI Image Generator React App
 
-![image](https://github.com/dragana1611/ai-image-generator-rect-app/assets/77893122/a42c350d-9bd3-4f43-8663-c87a580c1dd5)
+
+
+https://github.com/dragana1611/ai-image-generator-rect-app/assets/77893122/4e787600-6565-45b9-ab0f-47ac70dc1d61
+
