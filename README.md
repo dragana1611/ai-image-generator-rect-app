@@ -1,5 +1,5 @@
 # AI Image Generator React App
-## AI Image Generator React App
+## OpenAI
 
 
 
